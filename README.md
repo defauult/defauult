@@ -6,7 +6,7 @@ Je joue au ctf principalement sur HackTheBox vous pouvez voir mon profile juste 
 # Contact 📝
 <a href="https://app.hackthebox.eu/profile/430640"><img src="https://i.imgur.com/pEpAyy6.png" width="60"></a> 
 <a href="https://twitter.com/0xDef4ulT"><img src="https://i.imgur.com/EV47iOJ.png" width="60"></a>
-<a href="https://discord.gg/sYbA8KqQfn"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/0/05/Discord.svg/1200px-Discord.svg.png" width="60"><a>
+<a href="https://discord.gg/sYbA8KqQfn"><img src="https://i.imgur.com/VH3Bzrx.png" width="60"><a>
 ## Github Stats 📊
 
 <a href="https://github.com/xlt-xau-xef-x0d">
