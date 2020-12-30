@@ -1,9 +1,3 @@
 <h1>  Welcome 👋<h1>
 
-Hello, to introduce myself ,
-
-- My nickname is Default
-
-- I am passionate about IT
-
-### new repo will arrive ! 
+![alt text](https://media.giphy.com/media/d8uCIkjV9hMyrRQ5D8/giphy.gif)
