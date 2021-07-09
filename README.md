@@ -4,7 +4,7 @@ Hey mon pseudonyme est DefaulT je suis un jeune étudiant en informatique et pas
 Je joue au ctf principalement sur HackTheBox vous pouvez voir mon profile juste ici ==> [HTB](https://app.hackthebox.eu/profile/430640)
 # Contact 📝
 <a href="https://app.hackthebox.eu/profile/430640"><img src="https://i.imgur.com/pEpAyy6.png" width="60"></a> 
-<a href="https://twitter.com/0xDef4ulT"><img src="https://i.imgur.com/EV47iOJ.png" width="60"></a>
+<a href="https://twitter.com/0xDef4ulT"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1259px-Twitter_Bird.svg.png" width="60"></a>
 <a href="https://discord.gg/sYbA8KqQfn"><img src="https://i.imgur.com/VH3Bzrx.png" width="60"><a>
 ## Github Stats 📊
 
