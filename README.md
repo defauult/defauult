@@ -1,4 +1,3 @@
-![gif](https://media.giphy.com/media/74lI7NCng7Z9JVTlme/giphy.gif)
 # Intro 🚪
 
 Hey mon pseudonyme est DefaulT je suis un jeune étudiant en informatique et passioné de Sécurité-Inforamatique ! J'ai 15 ans , et je suis beau !<br>
