@@ -1,7 +1,8 @@
 # Intro 🚪
 
-Hey mon pseudonyme est DefaulT je suis un jeune étudiant en informatique et passioné de Sécurité-Inforamatique !<br>
-Je joue au ctf principalement sur HackTheBox vous pouvez voir mon profile juste ici ==> [HTB](https://app.hackthebox.eu/profile/430640)
+#### Hey mon pseudonyme est DefaulT je suis un jeune étudiant en informatique et passioné de Sécurité-Inforamatique (*CTFplayer and pwner*) ! <br> J'aimerai dans le futur devenir **Pentester (RedTeam) de profession.**
+# What's on my github ? 
+#### Vous retrouverez des algorithmes que je m'amuse à développer voir des scripts d'exploitation ainsi et possiblement des scripts d'automatisation liée à la sécurité informatique :)
 # Contact 📝
 <a href="https://app.hackthebox.eu/profile/430640"><img src="https://i.imgur.com/pEpAyy6.png" width="60"></a> 
 <a href="https://twitter.com/0xDef4ulT"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1259px-Twitter_Bird.svg.png" width="60"></a>
