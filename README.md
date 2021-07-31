@@ -1,6 +1,6 @@
 # Intro 🚪
 
-Hey mon pseudonyme est DefaulT je suis un jeune étudiant en informatique et passioné de Sécurité-Inforamatique ! J'ai 15 ans , et je suis beau !<br>
+Hey mon pseudonyme est DefaulT je suis un jeune étudiant en informatique et passioné de Sécurité-Inforamatique !<br>
 Je joue au ctf principalement sur HackTheBox vous pouvez voir mon profile juste ici ==> [HTB](https://app.hackthebox.eu/profile/430640)
 # Contact 📝
 <a href="https://app.hackthebox.eu/profile/430640"><img src="https://i.imgur.com/pEpAyy6.png" width="60"></a> 
