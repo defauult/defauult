@@ -1,6 +1,6 @@
 # Intro 🚪
 
-#### Hey mon pseudonyme est DefaulT je suis un jeune étudiant en informatique et passioné de Sécurité-Inforamatique ! <br> J'aimerai dans le futur devenir **Pentester de profession.**
+#### Hey mon pseudonyme est DefaulT je suis un jeune étudiant en informatique et passioné de Sécurité Inforamatique ! <br> J'aimerai dans le futur devenir **Pentester de profession.**
 # What's on my github ? 
 #### Vous retrouverez des algorithmes que je m'amuse à développer voir des scripts d'exploitation ainsi et possiblement des scripts d'automatisation liée à la sécurité informatique :)
 # Contact 📝
